@@ -11,13 +11,56 @@
         android:theme="@style/Theme.Quiz.First">
         <activity
             android:name=".MainActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz.First">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".SecActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz.Second">
+
+        </activity>
+
+        <activity
+            android:name=".ThrActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz.Third">
+
+        </activity>
+
+        <activity
+            android:name=".FourthActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz.Fourth">
+
+        </activity>
+
+        <activity
+            android:name=".FifthActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz.Fifth">
+
+        </activity>
+
+        <activity
+            android:name=".SixActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Quiz">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+
+        </activity>
+
     </application>
 
 </manifest>

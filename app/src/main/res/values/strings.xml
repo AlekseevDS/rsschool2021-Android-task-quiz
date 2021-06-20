@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="result_text">Your result:</string>
+
+    <string name="question_1">Вставьте пропущенную цифру "2 5 8 11 _"</string>
+    <string name="answer_1_1">12</string>
+    <string name="answer_1_2">16</string>
+    <string name="answer_1_3_right">14</string>
+    <string name="answer_1_4">22</string>
+    <string name="answer_1_5">19</string>
+    <string name="question_2">Выберите лишнее название города</string>
+    <string name="answer_2_1_right">Нью-Йорк</string>
+    <string name="answer_2_2">Канберра</string>
+    <string name="answer_2_3">Париж</string>
+    <string name="answer_2_4">Берлин</string>
+    <string name="answer_2_5">Оттава</string>
+    <string name="question_3">Вставьте недостающую букву "Д Ж К Н С _"</string>
+    <string name="answer_3_1">У</string>
+    <string name="answer_3_2">С</string>
+    <string name="answer_3_3">Т</string>
+    <string name="answer_3_4_right">Ф</string>
+    <string name="answer_3_5">Ш</string>
+    <string name="question_4">Подтвердите, что вы не робот. Выберите правильный ответ</string>
+    <string name="answer_4_1">Я НЕ РОБОТ!!!</string>
+    <string name="answer_4_2_right">Правильный ответ</string>
+    <string name="answer_4_3">101001010</string>
+    <string name="answer_4_4">$#@$%*</string>
+    <string name="answer_4_5">На картинке нет светофоров</string>
+    <string name="question_5">Выберите сочетание, не образующее фамилию знаменитого поэта.</string>
+    <string name="answer_5_1">ЙОРБАН</string>
+    <string name="answer_5_2">ШПУИНК</string>
+    <string name="answer_5_3_right">ЛОТАНП</string>
+    <string name="answer_5_4">СТИК</string>
+    <string name="answer_5_5">МОРЛЕНВОТ</string>
 </resources>
